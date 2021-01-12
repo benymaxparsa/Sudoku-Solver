@@ -2,7 +2,7 @@ import numpy as np
 
 # Sudoku solver project
 # for my Design and Analysis of Algorithms Class taught by Prof. HajAhmadi
-# solution by Parsa KamaliPour.
+# solution by Parsa KamaliPour. 
 
 
 def find_empty_spot(our_sudoku):
